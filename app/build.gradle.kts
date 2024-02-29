@@ -81,6 +81,7 @@ dependencies {
     implementation("androidx.compose.material:material")
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.ui:ui-tooling-preview")
+    implementation("org.testng:testng:6.9.6")
 
     debugImplementation("androidx.compose.ui:ui-test-manifest")
     debugImplementation("androidx.compose.ui:ui-tooling")
